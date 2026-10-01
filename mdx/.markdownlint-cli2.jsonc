@@ -1,0 +1,4 @@
+{
+  "config": { "default": true, "RS2ImpactRule": true },
+  "customRules": ["./rs2_impact_rule.cjs"]
+}
